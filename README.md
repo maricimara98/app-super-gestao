@@ -2,7 +2,7 @@
 
 <h2 align="center">Sobre o Projeto </h2>
 
-<h4 align="center">Projeto de Estágio</h4>
+<h4 align="center">Treinamento Laravel</h4>
 
 ## ⚡ **Instalação**
 
